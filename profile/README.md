@@ -1,6 +1,6 @@
 ## SABS Epidemiology
 
-This organization page contains the software packages and research outputs which are being developed and released by the Epidemiology Project affiliated with the SABS:R3 Center for Doctoral Training at the University of Oxford. Our goal is to combine rigorous, project-based training in research software engineering with consequential epidemiological modelling research, and some of our interests include agent-based modelling, Bayesian inference in epidemiology, effective reproduction numbers, and agile research software development.
+This organization page contains the software packages and research outputs which are being developed and released by the Epidemiology Project affiliated with the SABS:R3 Center for Doctoral Training at the [University of Oxford](https://www.dtc.ox.ac.uk/). Our goal is to combine rigorous, [project-based training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012410) in research software engineering with consequential epidemiological modelling research, and some of our interests include agent-based modelling, Bayesian inference in epidemiology, effective reproduction numbers, and agile research software development.
 
 <!--
 
